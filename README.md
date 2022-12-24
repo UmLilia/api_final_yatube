@@ -10,7 +10,7 @@ Python 3.7.9 Django 3.2.16
 ## Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 > git clone git@github.com:UmLilia/api_final_yatube.git
-> cd api_final_yatube
+> cd yatube_api
 
 Cоздать и активировать виртуальное окружение:
 > python -m venv env
